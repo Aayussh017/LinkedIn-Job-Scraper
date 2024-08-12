@@ -1,0 +1,312 @@
+2024-08-12 14:44:28 - Script started
+2024-08-12 14:44:37 - WebDriver initialized
+2024-08-12 14:44:37 - Navigating to URL: https://www.linkedin.com/jobs/search?location=India&geoId=102713980&f_C=1035&position=1&pageNum=0
+2024-08-12 14:44:39 - Element found: jobs-search__results-list
+2024-08-12 14:44:41 - Scrolled 1 times.
+2024-08-12 14:44:43 - Scrolled 2 times.
+2024-08-12 14:44:45 - Scrolled 3 times.
+2024-08-12 14:44:48 - Page source length: 394917
+2024-08-12 14:44:48 - HTML snippet: <html lang="en"><head>
+        <meta name="pageKey" content="d_jobs_guest_search">
+<!---->          <meta name="linkedin:pageTag" content="urlType=jserp_custom;emptyResult=false">
+        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="2.0.1912" data-call-tree-id="AAYfeOwddbzgPKE7wnFfxw==" data-multiproduct-name="jobs-guest-frontend" data-service-name="jobs-guest-frontend" data-browser-id="ebae6041-1c11-4d6c-85d8-828b1d8fee79" data-enable-page-view-heartbeat-tracking="" data-page-instance="urn:li:page:d_jobs_guest_search;bNS0rqcvQlSANrj2RT/lJw==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/jobs/search">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+          <link rel="manifest" href="/homepage-guest/manifest.json" crossorigin="use-credentials">
+
+          <l
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - SOFTWARE ENGINEER - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Applied Sciences IC2 - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Pune, Maharashtra, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Business Manager - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Customer Success Account Manager - Mumbai Metropolitan Region
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:48 - Parsed job: Microsoft - Senior HR Business Partner - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Backend - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Digital Specialist – Support Solution (India) - Gurgaon, Haryana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Designer II - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Demand Planning - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Designer 2 - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Sales Leader - Application Development - Delhi, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Account Management - Edtech - Gurgaon, Haryana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Sales Leader - Application Development - Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Sales Leader - Application Development - Haryana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Sr. Business Analyst - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Strategic Sales Business Development Manager - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Maharashtra, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Data Center Technician - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Customer Success Account Manager - Mumbai Metropolitan Region
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Delhi, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Backend - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Digital Specialist – Support Solution (India) - Gurgaon, Haryana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Designer II - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Demand Planning - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Designer 2 - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Data Center Technician - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Customer Success Account Manager - Mumbai Metropolitan Region
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Delhi, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Product Manager 2 - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Content Designer II - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Sales Leader - Application Development - Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Himachal Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Strategic Business Development Manager - Partnership - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer II - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer 2 - Hyderabad, Telangana, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Software Engineer 2 - Noida, Uttar Pradesh, India
+2024-08-12 14:44:48 - Parsed job: Microsoft - Technical Support Engineering - Bengaluru, Karnataka, India
+2024-08-12 14:44:48 - Navigating to URL: https://www.linkedin.com/jobs/search?keywords=&location=India&geoId=102713980&f_C=1441
+2024-08-12 14:44:50 - Element found: jobs-search__results-list
+2024-08-12 14:44:52 - Page source length: 353357
+2024-08-12 14:44:52 - HTML snippet: <html lang="en"><head>
+        <meta name="pageKey" content="d_jobs_guest_search">
+<!---->          <meta name="linkedin:pageTag" content="urlType=jserp_custom;emptyResult=false">
+        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="2.0.1912" data-call-tree-id="AAYfeOzAuv7yMeD920/QhQ==" data-multiproduct-name="jobs-guest-frontend" data-service-name="jobs-guest-frontend" data-browser-id="ebae6041-1c11-4d6c-85d8-828b1d8fee79" data-enable-page-view-heartbeat-tracking="" data-page-instance="urn:li:page:d_jobs_guest_search;zhNrwCWSSyiQXFobrqS58A==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/jobs/search">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+          <link rel="manifest" href="/homepage-guest/manifest.json" crossorigin="use-credentials">
+
+          <l
+2024-08-12 14:44:52 - Parsed job: Google - Digital Marketing Strategist - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, University Graduate, 2025 - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, University Graduate, 2025 - Mumbai Metropolitan Region
+2024-08-12 14:44:52 - Parsed job: Google - Marketing Category Manager - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Technical Recruiter - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, University Graduate, 2025 - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, University Graduate, 2025 - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, University Graduate, 2025 - Pune, Maharashtra, India
+2024-08-12 14:44:52 - Parsed job: Google - Technical Recruiter - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Executive Recruiter - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Data Analyst - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Marketing Category Manager - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Specialist, Product and Sales Activation - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Digital Marketing Strategist - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Executive Recruiter - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Business Development Consultant, New Business Sales - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Core - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Executive Recruiter - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Core - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Administrative Business Partner, Search Platforms - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Marketing Analytics Manager, Ads Marketing - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Accountant, Platforms and Ecosystems - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Account Manager, Ad Sales - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Media lead, Marketing - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Embedded Software Engineer, University Graduate, 2025 - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Growth Manager, AppDev (English, Hindi) - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Internal Communications Specialist - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Google Ads - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Account Strategist, Mid-Market Sales, Google Customer Solutions - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Account Strategist, Mid-Market Sales, Google Customer Solutions - Mumbai Metropolitan Region
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Customer Engagement - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Customer Onboarding Strategist, Acquisitions, Google Customer Solutions - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Support Manager, Google Play - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Search - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, YouTube - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Payments - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Payments - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Program Manager, Strategy and Operations - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Search - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Strategy and Operations Lead, Go-To-Market - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Support Consultant, gTech - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Business Intelligence Analyst, Finance - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Google Home/Nest Subscriptions - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Software Engineer, Front End, Google Cloud - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Member Retention and Experience - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Workday Analyst, People Operations - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Research Scientist, Google Assistant - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Program Manager, Vendor Quality Operations - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Play Store, CRM - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Ads Incentives - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Technical Account Manager - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Financial Analyst, Ads Operations - Gurgaon, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Administrative Business Partner, International Controllership - Hyderabad, Telangana, India
+2024-08-12 14:44:52 - Parsed job: Google - Business Finance Analyst, Finance, Google Customer Solutions - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Internal Communications Specialist - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Product Manager, Google TV Smart Home Experiences - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Business Finance Analyst, Ads, Google Customer Solutions - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Service Delivery Manager - Gurugram, Haryana, India
+2024-08-12 14:44:52 - Parsed job: Google - Finance Lead, Payments, Finance - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Parsed job: Google - Silicon Engineer, University Graduate, 2025 - Bengaluru, Karnataka, India
+2024-08-12 14:44:52 - Navigating to URL: https://www.linkedin.com/jobs/search?keywords=&location=India&geoId=102713980&f_TPR=r86400&f_C=1586&position=1&pageNum=0
+2024-08-12 14:44:53 - Element found: jobs-search__results-list
+2024-08-12 14:44:56 - Page source length: 303140
+2024-08-12 14:44:56 - HTML snippet: <html lang="en"><head>
+        <meta name="pageKey" content="d_jobs_guest_search">
+<!---->          <meta name="linkedin:pageTag" content="urlType=jserp_custom;emptyResult=false">
+        <meta name="locale" content="en_US">
+        <meta id="config" data-app-version="2.0.1912" data-call-tree-id="AAYfeO0FcQ+1v/rIV4zWMQ==" data-multiproduct-name="jobs-guest-frontend" data-service-name="jobs-guest-frontend" data-browser-id="ebae6041-1c11-4d6c-85d8-828b1d8fee79" data-enable-page-view-heartbeat-tracking="" data-page-instance="urn:li:page:d_jobs_guest_search;13TCCFirRy60wqsUCxG3Tw==" data-disable-jsbeacon-pagekey-suffix="false" data-member-id="0" data-dna-member-lix-treatment="control" data-human-member-lix-treatment="control" data-dfp-member-lix-treatment="control">
+
+        <link rel="canonical" href="https://www.linkedin.com/jobs/search">
+<!----><!---->
+<!---->
+<!---->
+<!---->
+          <link rel="manifest" href="/homepage-guest/manifest.json" crossorigin="use-credentials">
+
+          <l
+2024-08-12 14:44:56 - Parsed job: Amazon - Executive Assistant - Gurgaon, Haryana, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Business Analyst, India Customer Service - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sales Manager, Amazon Devices - Gurugram, Haryana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sales Specialist, Global Sales - Gurugram, Haryana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Team Lead, Last mile - Greater Chennai Area
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Brand Specialist - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Advertising Strategic Manager, Amazon - Gurugram, Haryana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Packaging Lab incharge - Pune, Maharashtra, India
+2024-08-12 14:44:56 - Parsed job: Amazon - HRBP, International Emerging Stores Payment - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Team Manager - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Catalog Lead, Home - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr. Administrator, Appeals - Karnataka, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Associate Site Merchandiser, LA - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - QA Team Manager, Print Quality Assurance - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - SR. FinOps Analyst - AR, Global Account Receivables - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Manager Investigations, KYC - Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - AI Content Writer, Artificial General Intelligence Data Services - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Operation Specialist, Fees Team - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr. L&D Business Partner, CS Leadership Development - WWCS Org - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Tax Analyst GST Tax Compliance, GST Tax Compliance Team - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - Associate - Retail Process, CMT - Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr. Product Manager- Technical, Central Shopping Experience - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Program Manager-I, Japan Transportation Systems - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Software Development Manager - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - PC Specialist, Global Payroll Quality Assurance (GPQA) Team - Payroll Controllership - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - System Development Engineer, Payments Services - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Error parsing job card: 'NoneType' object is not subscriptable
+2024-08-12 14:44:56 - Parsed job: Amazon - System Development Engineer, Payments Services - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Team Lead, Fulfillment Centre, All Process paths - Ahmedabad, Gujarat, India
+2024-08-12 14:44:56 - Parsed job: Amazon - System Development Engineer II - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr. Software Engineer, Amazon - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - SDE II, FireTV - Chennai, Tamil Nadu, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Software Development Engineer - Alexa Voice Service, Alexa Voice Services - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr. Technical Program Manager, Device Software Externalization Team - Chennai, Tamil Nadu, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Software Dev Engineer II, International Emerging Stores - Bengaluru, Karnataka, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Software Dev Engineer II, Core Transport Tech/Visibility - Hyderabad, Telangana, India
+2024-08-12 14:44:56 - Parsed job: Amazon - Sr Software Dev Engineer- Connectivity/Wifi/Bluetooth, Connectivity - Bengaluru, Karnataka, India
+2024-08-12 14:44:58 - WebDriver closed
+2024-08-12 14:44:58 - Total jobs scraped: 183
+2024-08-12 14:44:58 - JSON file contains 183 job records.
+2024-08-12 14:44:58 - CSV file contains 183 job records.
+2024-08-12 14:44:58 - Data scraping completed. Scraped 183 jobs.
+2024-08-12 14:44:58 - 
+First few scraped jobs:
+2024-08-12 14:44:58 - [
+  {
+    "company": "Microsoft",
+    "job_title": "Software Engineer",
+    "linkedin_job_id": "view",
+    "location": "Hyderabad, Telangana, India",
+    "posted_on": "2024-07-31",
+    "posted_date": "31-07-2024",
+    "Seniority level": null,
+    "Employment type": null
+  },
+  {
+    "company": "Microsoft",
+    "job_title": "SOFTWARE ENGINEER",
+    "linkedin_job_id": "view",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_on": "2024-08-07",
+    "posted_date": "07-08-2024",
+    "Seniority level": null,
+    "Employment type": null
+  },
+  {
+    "company": "Microsoft",
+    "job_title": "Applied Sciences IC2",
+    "linkedin_job_id": "view",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_on": "2024-07-30",
+    "posted_date": "30-07-2024",
+    "Seniority level": null,
+    "Employment type": null
+  },
+  {
+    "company": "Microsoft",
+    "job_title": "Software Engineer",
+    "linkedin_job_id": "view",
+    "location": "Hyderabad, Telangana, India",
+    "posted_on": "2024-07-31",
+    "posted_date": "31-07-2024",
+    "Seniority level": null,
+    "Employment type": null
+  },
+  {
+    "company": "Microsoft",
+    "job_title": "Software Engineer",
+    "linkedin_job_id": "view",
+    "location": "Bengaluru, Karnataka, India",
+    "posted_on": "2024-07-30",
+    "posted_date": "30-07-2024",
+    "Seniority level": null,
+    "Employment type": null
+  }
+]
+2024-08-12 14:44:58 - Script completed
