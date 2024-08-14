@@ -37,7 +37,7 @@ This Python script scrapes job postings from LinkedIn for specific companies and
 2. **Run the script:**
 
     ```bash
-    python scraper.py
+    python datainterpreter.py
     ```
 
 ## Script Overview
